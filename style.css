@@ -1,0 +1,150 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    text-align: center;
+}
+
+h1{
+    font-size: 50px;
+    color: white;
+}
+.align{
+    text-align: center;
+    color: white;
+
+}
+
+.padding{
+    margin-top: 0%;
+    padding-top: 200px;
+    padding-bottom: 10px;
+}    
+
+.first-section{
+    background-image: url(donate-today-main/images/donation13.jpg);
+   background-repeat: no-repeat;
+   background-attachment:fixed ;
+   background-size: cover;
+   height: 700px;
+  
+  
+  ;
+
+}
+#lorem{
+    font-size: 20px;
+  
+}
+.donate{
+    text-decoration: none;
+    background-color: rgb(203, 77, 31);
+    color: white;
+    padding: 10px;
+    border-radius: 5%;
+    margin-top: 50px;
+}
+.email{
+    background-color: rgba(128, 128, 128, 0.364);
+    padding: 10px;
+    border-radius: 5%;
+    margin-top: 50px;
+
+
+}
+
+
+
+
+#black{
+    color: black;
+}
+h2{
+    display: inline-flex;
+    justify-content: space-evenly;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color:rgb(237, 237, 232);
+    width: 150px;
+    font-weight: 900px;
+    border-radius: 5%;
+    margin: 5px;
+
+    
+   
+}
+#red-box{
+    color: red;
+    background-color: rgba(230, 135, 135, 0.411);
+    border: 2px solid red;
+}
+.other-amount{
+    margin-top: 50px;
+}
+#donate-plan{
+    color: black;
+}
+.food{
+    background-color:rgba(173, 234, 214, 0.303) ;
+    height: 300px;
+    width: 400px;
+    margin: 20px;
+    padding:20px;
+
+    
+
+}
+.shelter{
+    background-color:rgba(245, 190, 199, 0.363);
+    height: 300px;
+    width: 400px;
+    margin: 20px;
+    padding:20px;
+
+}
+.frame{
+    background-color:lightgoldenrodyellow;
+    height: 300px;
+    width: 400px;
+    margin: 20px;
+    padding:20px;
+}
+.kothin-section{
+    display: inline-flex;
+    margin: 10px;
+}
+#lives{
+    color: black;
+}
+.white{
+    display: flex;
+   
+}
+.half-width{
+    width: 50%;
+    text-align:center;
+    padding: 50px;
+}
+.half-width img{width: 80%; }
+#my-updates{
+    color:black
+}
+.my-area{
+    background-color:blanchedalmond;
+    margin-left: 300px;
+    margin-right: 300px;
+    padding-bottom: 50px ;
+    padding-top: 30px;
+
+}
+.footer-edit{
+    background-color: black;
+    padding: 10px;
+    margin-top: 100px;
+}
+#humble{
+    color: orange;
+    font-family: 'Lobster', cursive;
+    font-size: 40px;
+}
+#foot{
+    color: white;
+}
